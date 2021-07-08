@@ -40,7 +40,7 @@ const App = () => {
             <>
                 <button onClick={loadFilms}>Films</button>
                 <button onClick={loadPeople}>People</button>
-                <h1>Neither are Loaded</h1>
+                <h3>Try to click one!</h3>
             </>
         ) 
     }
